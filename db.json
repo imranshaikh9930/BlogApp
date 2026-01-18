@@ -1,0 +1,35 @@
+{
+    "blogs": [
+      
+      {
+        "id": 1,
+        "title": "Future of Fintech",
+        "category": ["FINANCE", "TECH"],
+        "description": "Exploring how AI and blockchain are reshaping financial services",
+        "date": "2026-01-11T09:12:45.120Z",
+        "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+      },
+      {
+        "id": 2,
+        "title": "AI in Healthcare",
+        "category": ["HEALTH", "AI"],
+        "description": "How artificial intelligence is transforming modern healthcare systems",
+        "date": "2026-01-12T08:30:15.000Z",
+        "coverImage": "https://images.pexels.com/photos/4021775/pexels-photo-4021775.jpeg",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+      },
+      {
+        "id": 3,
+        "title": "Rise of Electric Vehicles",
+        "category": ["AUTOMOBILE", "TECH"],
+        "description": "Understanding the growth and impact of electric vehicles worldwide",
+        "date": "2026-01-13T10:45:00.500Z",
+        "coverImage": "https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg",
+        "content": "ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+      }
+      
+      
+    ]
+  }
+  
