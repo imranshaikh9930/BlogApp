@@ -44,7 +44,7 @@ export function BlogCard({
                 {cat}
               </Badge>
             ))}
-            <span>• {new Date(date).toDateString()}</span>
+            <span className="text-sm text-nowrap">• {new Date(date).toDateString()} </span>
           </div>
 
          
